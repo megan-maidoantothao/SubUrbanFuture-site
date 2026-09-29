@@ -6,6 +6,11 @@ support communities, such as health, education and community facilities, are
 keeping pace with growth, first across the city and then within individual
 councils.
 
+This work was developed as a contribution towards
+[The Future Suburb Symposium](https://msd.unimelb.edu.au/public-programs/research/the-future-suburb-symposium),
+hosted by the Melbourne School of Design, University of Melbourne, on
+2 October 2026. It relates to the symposium's "System" theme.
+
 **View the site:** <https://megan-maidoantothao.github.io/SubUrbanFuture-site/>
 
 ## Stories
