@@ -1,0 +1,215 @@
+/* ============================================================
+   Suburban Futures — homepage redesign
+   Append this to assets/site.css (or link as a second stylesheet
+   after it). Written to layer on top of Quarto/Bootstrap, not
+   replace it — only .navbar/.footer selectors are lightly themed.
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+:root{
+  --ink:        #0F1626;
+  --ink-2:      #1A2438;
+  --ink-3:      #26324A;
+  --paper:      #EDE7D8;
+  --amber:      #E3A548;   /* population */
+  --teal:       #4FB6A8;   /* facilities */
+  --text:       #F2EFE7;
+  --text-muted: #97A3B8;
+  --line:       rgba(242,239,231,0.12);
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body:    "Inter", system-ui, sans-serif;
+  --font-mono:    "IBM Plex Mono", ui-monospace, monospace;
+}
+
+/* ---------- base ---------- */
+body.nav-fixed{
+  background: var(--ink);
+  color: var(--text);
+  font-family: var(--font-body);
+}
+
+#quarto-header .navbar{
+  background: var(--ink) !important;
+  border-bottom: 1px solid var(--line);
+}
+#quarto-header .navbar-title{
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+#quarto-header .nav-link{
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted) !important;
+}
+#quarto-header .nav-link:hover,
+#quarto-header .nav-link.active{
+  color: var(--text) !important;
+}
+#quarto-header .nav-link.active{
+  border-bottom: 2px solid var(--amber);
+}
+
+main#quarto-document-content{
+  max-width: 100% !important;
+}
+
+/* kill default Quarto title block — the hero replaces it */
+#title-block-header{ display: none; }
+
+/* ---------- hero ---------- */
+.sf-hero{
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 3rem;
+  align-items: center;
+  padding: 4.5rem 1rem 3.5rem;
+  max-width: 1180px;
+  margin: 0 auto;
+}
+@media (max-width: 860px){
+  .sf-hero{ grid-template-columns: 1fr; padding-top: 2.5rem; }
+}
+
+.sf-hero h1{
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(2.6rem, 5vw, 4.2rem);
+  line-height: 1.02;
+  letter-spacing: -0.01em;
+  margin: 0 0 1rem;
+  color: var(--text);
+}
+.sf-hero h1 em{
+  font-style: italic;
+  color: var(--amber);
+}
+
+.sf-hero p.lead{
+  font-size: 1.1rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+  max-width: 46ch;
+  margin: 0 0 2rem;
+}
+
+/* ---------- hero pictogram (signature element) ---------- */
+.sf-pictogram{
+  background: var(--ink-2);
+  border: 1px solid var(--line);
+  padding: 1.75rem 1.75rem 1.25rem;
+}
+.sf-pictogram-caption{
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+  margin-top: 1rem;
+  line-height: 1.5;
+}
+.sf-pictogram-caption b{ color: var(--text); font-weight: 500; }
+
+.sf-pgrid{
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  gap: 5px;
+  margin-bottom: 0.9rem;
+}
+.sf-pgrid .dot{
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: var(--ink-3);
+  opacity: 0;
+  animation: sf-pop 2.6s ease-in-out infinite;
+}
+.sf-pgrid .dot.on{ background: var(--amber); }
+@keyframes sf-pop{
+  0%   { opacity: 0; transform: scale(0.4); }
+  8%   { opacity: 1; transform: scale(1); }
+  85%  { opacity: 1; transform: scale(1); }
+  100% { opacity: 1; transform: scale(1); }
+}
+@media (prefers-reduced-motion: reduce){
+  .sf-pgrid .dot{ animation: none; opacity: 1; }
+}
+
+.sf-frow{
+  display: flex;
+  gap: 5px;
+  align-items: flex-end;
+  height: 22px;
+}
+.sf-frow .sq{
+  flex: 1;
+  height: 100%;
+  background: var(--teal);
+  opacity: 0.9;
+}
+
+.sf-plegend{
+  display: flex;
+  gap: 1.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: 0.7rem;
+}
+.sf-plegend span{ display: flex; align-items: center; gap: 0.4rem; }
+.sf-swatch{ width: 9px; height: 9px; display: inline-block; }
+.sf-swatch.amber{ background: var(--amber); border-radius: 50%; }
+.sf-swatch.teal{ background: var(--teal); }
+
+/* ---------- Melbourne teaser (single call-to-action card, balances the hero) ---------- */
+.sf-section{
+  max-width: 720px;
+  margin: 0 auto 4rem;
+  padding: 2.75rem 2.5rem;
+  background: var(--ink-2);
+  border: 1px solid var(--line);
+  text-align: center;
+}
+.sf-section h2{
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  line-height: 1.15;
+  color: var(--text);
+  margin: 0 0 1rem;
+}
+.sf-section-lead{
+  color: var(--text-muted);
+  font-size: 1rem;
+  line-height: 1.55;
+  max-width: 52ch;
+  margin: 0 auto 1.75rem;
+}
+.sf-section-lead a{ color: var(--teal); }
+
+.sf-cta-button{
+  display: inline-block;
+  padding: 0.85rem 1.7rem;
+  background: var(--amber);
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  transition: background 0.15s ease;
+}
+.sf-cta-button:hover{ background: #EAB766; }
+
+/* ---------- footer ---------- */
+.footer{
+  background: var(--ink);
+  border-top: 1px solid var(--line);
+  color: var(--text-muted) !important;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+}
+.footer a{ color: var(--text-muted); }

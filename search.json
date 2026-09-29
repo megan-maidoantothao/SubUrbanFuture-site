@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "stories/melbourne/index.html",
+    "href": "stories/melbourne/index.html",
+    "title": "Melbourne: growth and services",
+    "section": "",
+    "text": "Home / Melbourne\nWe looked at population and facility data for 354 SA2 (Statistical Area Level 2) areas across Greater Melbourne between 2021 and 2024, drawn from ABS population estimates and the Vicmap community facilities catalogue, to see whether services are keeping pace with growth.\nThey’re not growing evenly. A small group of growth areas on Melbourne’s fringe — Wyndham, Melton, Casey, Hume, Whittlesea, Cardinia and Mitchell — are adding people far faster than the rest of the city. Meanwhile, established areas closer to the centre are growing slowly, if at all."
+  },
+  {
+    "objectID": "stories/melbourne/index.html#within-greater-melbourne-is-everyone-growing-at-the-same-speed",
+    "href": "stories/melbourne/index.html#within-greater-melbourne-is-everyone-growing-at-the-same-speed",
+    "title": "Melbourne: growth and services",
+    "section": "Within Greater Melbourne, is everyone growing at the same speed?",
+    "text": "Within Greater Melbourne, is everyone growing at the same speed?\nMelbourne isn’t growing evenly. Some areas are barely changing; others are adding people fast. This first chart shows where the fast growth is actually happening.\n\n\n\nNot really. Each dot is an SA2 — an ABS-defined area sized to a population of roughly 3,000–25,000, used as the closest standard unit to suburb-level analysis (though SA2 boundaries don’t always match actual suburb boundaries — small suburbs are often grouped together, large ones split apart). The orange dots — growth-area SA2s — are growing noticeably faster: growth above 20% is over five times more common among them than elsewhere. Those SA2s make up 58% of the city’s fastest-growing tenth, despite being under a third of all SA2s citywide. SA2s in established areas — the rest of the city — rarely see growth above 20% at all.\n\n\n\nNext: is that unevenness reflected in services too? →"
+  },
+  {
+    "objectID": "stories/melbourne/index.html#is-that-unevenness-reflected-in-services-too",
+    "href": "stories/melbourne/index.html#is-that-unevenness-reflected-in-services-too",
+    "title": "Melbourne: growth and services",
+    "section": "Is that unevenness reflected in services too?",
+    "text": "Is that unevenness reflected in services too?\nIf people are arriving unevenly, are services arriving with them? Here’s what happened to mapped facilities in the same places, over the same years.\n\n\n\n73% of SA2s in the fastest-growing quarter saw facility provision fall behind population growth between 2021 and 2024 (a median drop of 0.10 facilities per 1,000 residents) — while slower-growing areas mostly kept pace.\n\n\n\n← Back Next: does the pattern hold across the whole city? →"
+  },
+  {
+    "objectID": "stories/melbourne/index.html#does-the-pattern-hold-across-the-whole-city",
+    "href": "stories/melbourne/index.html#does-the-pattern-hold-across-the-whole-city",
+    "title": "Melbourne: growth and services",
+    "section": "Does the pattern hold across the whole city?",
+    "text": "Does the pattern hold across the whole city?\nSo far, that’s two snapshots — not yet a trend.\n\n\n\nYes — the relationship runs downhill across the whole city. Each extra 10 percentage points of population growth is associated with about 0.3 fewer mapped facilities per 1,000 residents, on average (a statistically significant trend, p &lt; 0.001). Areas near 0% growth cluster around 2.5–3.5 facilities per 1,000; by 50%+ growth, most sit below 1.5.\n\n\n\n← Back Next: do high-growth areas end up with fewer services? →"
+  },
+  {
+    "objectID": "stories/melbourne/index.html#do-high-growth-areas-end-up-with-fewer-services",
+    "href": "stories/melbourne/index.html#do-high-growth-areas-end-up-with-fewer-services",
+    "title": "Melbourne: growth and services",
+    "section": "Do high-growth areas end up with fewer services?",
+    "text": "Do high-growth areas end up with fewer services?\nPut growth and facilities side by side, area by area, and a shape emerges — one that lines up closely with where the growth-area SA2s actually are.\n\n\n\nAcross Greater Melbourne, the median is about 2.3 facilities per 1,000 residents. Most SA2s grow modestly and sit close to that median. However, among the smaller number of areas growing faster than 25%, we’re seeing a gap: established areas’ facility ratio roughly plateaus (only a few established areas grow faster than about 40%). Meanwhile, growth areas keep going all the way into hyper-growth, but their facility ratio drops toward 0.4–0.5 per 1,000 despite 100%+ growth.\n\n\n\nDownload this chart as PNG"
+  },
+  {
+    "objectID": "stories/melbourne/index.html#how-much-of-melbournes-growth-is-happening-in-each-council",
+    "href": "stories/melbourne/index.html#how-much-of-melbournes-growth-is-happening-in-each-council",
+    "title": "Melbourne: growth and services",
+    "section": "How much of Melbourne’s growth is happening in each council?",
+    "text": "How much of Melbourne’s growth is happening in each council?\nZooming out from SA2s to whole councils: watch each council’s population change from 2010 to 2024. Use play/pause or the scrubber below the chart.\n\n\n\n\n\n\nBy 2024, Melbourne’s five most populous councils are exactly its five largest growth-area councils — Casey, Wyndham, Hume, Whittlesea and Melton — ahead of every established council, including Monash (Greater Melbourne’s largest established council). None of them started there: watch the race to see how recently that changed.\nColour and position mean different things here: colour is a fixed category (growth area or established, per the Victorian Government’s own designation — see below), while position is purely current population rank. The two don’t always agree — Mitchell is officially a growth area but is currently the third-smallest council in Melbourne (28,415 people, 2024), so you’ll see it coloured orange near the bottom of the chart rather than near the top.\n\n← Back Next: choose a council →"
+  },
+  {
+    "objectID": "stories/melbourne/index.html#but-within-a-council-how-is-each-area-doing",
+    "href": "stories/melbourne/index.html#but-within-a-council-how-is-each-area-doing",
+    "title": "Melbourne: growth and services",
+    "section": "But within a council — how is each area doing?",
+    "text": "But within a council — how is each area doing?\nSo far, we’ve seen the pattern across all of Melbourne. But a citywide average can flatten real differences between areas in the same council. Now let’s shift the lens to a council view — a Local Government Area (LGA) — and see what stories sit behind the system of a single council, rather than the whole-city view. Pick a council below to see its own local picture.\n\nCouncil (Local Government Area)  Loading LGA list… \n\n\nOpen LGA stories\n\n\n← Back"
+  },
+  {
+    "objectID": "stories/lgas/whittlesea/index.html",
+    "href": "stories/lgas/whittlesea/index.html",
+    "title": "Whittlesea stories",
+    "section": "",
+    "text": "Home / Council (LGA) / Whittlesea"
+  },
+  {
+    "objectID": "stories/lgas/whittlesea/index.html#which-services-are-falling-behind-fastest-in-whittlesea",
+    "href": "stories/lgas/whittlesea/index.html#which-services-are-falling-behind-fastest-in-whittlesea",
+    "title": "Whittlesea stories",
+    "section": "Which services are falling behind fastest in Whittlesea?",
+    "text": "Which services are falling behind fastest in Whittlesea?\n\n\n\nRecreation facilities are furthest behind in Whittlesea, growing less than 1% (233 to 235) against 9% population growth. Health also lagged (+3%) and community grew modestly behind pace (+7%). Education outpaced population growth (+19%).\n\n\n\nNext: choose a council →"
+  },
+  {
+    "objectID": "stories/lgas/melton/index.html",
+    "href": "stories/lgas/melton/index.html",
+    "title": "Melton stories",
+    "section": "",
+    "text": "Home / Council (LGA) / Melton"
+  },
+  {
+    "objectID": "stories/lgas/melton/index.html#which-services-are-falling-behind-fastest-in-melton",
+    "href": "stories/lgas/melton/index.html#which-services-are-falling-behind-fastest-in-melton",
+    "title": "Melton stories",
+    "section": "Which services are falling behind fastest in Melton?",
+    "text": "Which services are falling behind fastest in Melton?\n\n\n\nCommunity facilities have stalled in Melton — 24 in both 2021 and 2024 — while population grew 21%. Health also lagged (+5%). Education (+37%) and recreation (+50%, though from a small base of just 4 facilities) both outpaced population growth.\n\n\n\nNext: choose a council →"
+  },
+  {
+    "objectID": "stories/lgas/hume/index.html",
+    "href": "stories/lgas/hume/index.html",
+    "title": "Hume stories",
+    "section": "",
+    "text": "Home / Council (LGA) / Hume"
+  },
+  {
+    "objectID": "stories/lgas/hume/index.html#which-services-are-falling-behind-fastest-in-hume",
+    "href": "stories/lgas/hume/index.html#which-services-are-falling-behind-fastest-in-hume",
+    "title": "Hume stories",
+    "section": "Which services are falling behind fastest in Hume?",
+    "text": "Which services are falling behind fastest in Hume?\n\n\n\nRecreation facilities are furthest behind in Hume, growing just 1% (155 to 157) against 10% population growth. Community also lagged (+6%). Health almost exactly kept pace (+10%), and education outpaced growth (+18%).\n\n\n\nNext: choose a council →"
+  },
+  {
+    "objectID": "stories/lgas/cardinia/index.html",
+    "href": "stories/lgas/cardinia/index.html",
+    "title": "Cardinia stories",
+    "section": "",
+    "text": "Home / Council (LGA) / Cardinia"
+  },
+  {
+    "objectID": "stories/lgas/cardinia/index.html#which-services-are-falling-behind-fastest-in-cardinia",
+    "href": "stories/lgas/cardinia/index.html#which-services-are-falling-behind-fastest-in-cardinia",
+    "title": "Cardinia stories",
+    "section": "Which services are falling behind fastest in Cardinia?",
+    "text": "Which services are falling behind fastest in Cardinia?\n\n\n\nCommunity facilities have stalled in Cardinia — 36 in both 2021 and 2024 — while population grew 9%. Recreation kept close to pace (+11%). Education (+17%) and health (+20%, from a small base of 10 facilities) both outpaced population growth.\n\n\n\nNext: choose a council →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Suburban Futures",
+    "section": "",
+    "text": "Suburban Futures\n\nMelbourne has grown fast over the last decade. Have the services meant to support it kept pace? Explore where that’s true across the city — and where it isn’t. We’ll start with the citywide picture, then narrow in on a council and its stories.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\npeople mapped facilities\n\n\nIn many growth-front councils, population fills in faster than the facilities mapped to serve it. Each story shows the real numbers for one place.\n\n\n\n\n\nAs Melbourne grows, are the services meant to support it keeping up — everywhere?\n\n\nGrowth-area councils have far more suburbs in hyper-growth than the rest of the city — and facility supply isn’t keeping pace with that growth on average.\n\nExplore the Melbourne story →"
+  },
+  {
+    "objectID": "stories/lgas/casey/index.html",
+    "href": "stories/lgas/casey/index.html",
+    "title": "Casey stories",
+    "section": "",
+    "text": "Home / Council (LGA) / Casey"
+  },
+  {
+    "objectID": "stories/lgas/casey/index.html#which-services-are-falling-behind-fastest-in-casey",
+    "href": "stories/lgas/casey/index.html#which-services-are-falling-behind-fastest-in-casey",
+    "title": "Casey stories",
+    "section": "Which services are falling behind fastest in Casey?",
+    "text": "Which services are falling behind fastest in Casey?\n\n\n\nCommunity facilities are furthest behind in Casey, growing just 5% (38 to 40) against 10% population growth. Health also lagged slightly (+8%). Recreation (+17%) and education (+20%) both outpaced population growth.\n\n\n\nNext: choose a council →"
+  },
+  {
+    "objectID": "stories/lgas/index.html",
+    "href": "stories/lgas/index.html",
+    "title": "Choose a Council (LGA)",
+    "section": "",
+    "text": "Home / Council (LGA)"
+  },
+  {
+    "objectID": "stories/lgas/index.html#choose-a-council-lga",
+    "href": "stories/lgas/index.html#choose-a-council-lga",
+    "title": "Choose a Council (LGA)",
+    "section": "Choose a Council (LGA)",
+    "text": "Choose a Council (LGA)\nThe list is generated from the cleaned source data whenever the site data is prepared. LGA names are not maintained manually in this page.\n\nCouncil (Local Government Area)  Loading LGA list… \n\n\nOpen LGA stories\n\nIf JavaScript is unavailable, download the generated LGA list as CSV.\nAn LGA can appear in the list before it has a published story. Data availability is not the same as editorial validation."
+  },
+  {
+    "objectID": "stories/lgas/mitchell/index.html",
+    "href": "stories/lgas/mitchell/index.html",
+    "title": "Mitchell stories",
+    "section": "",
+    "text": "Home / Council (LGA) / Mitchell"
+  },
+  {
+    "objectID": "stories/lgas/mitchell/index.html#which-services-are-falling-behind-fastest-in-mitchell",
+    "href": "stories/lgas/mitchell/index.html#which-services-are-falling-behind-fastest-in-mitchell",
+    "title": "Mitchell stories",
+    "section": "Which services are falling behind fastest in Mitchell?",
+    "text": "Which services are falling behind fastest in Mitchell?\n\n\n\nCommunity facilities have stalled in Mitchell — 10 in both 2021 and 2024 — while population grew 24%, the fastest of any growth-area council. Recreation also lagged (+13%) and education grew modestly behind pace (+19%). Mitchell has no mapped health facilities at all — zero in both 2021 and 2024 — so health isn’t shown on this chart.\n\n\n\nNext: choose a council →"
+  },
+  {
+    "objectID": "stories/lgas/wyndham/index.html",
+    "href": "stories/lgas/wyndham/index.html",
+    "title": "Wyndham stories",
+    "section": "",
+    "text": "Home / Council (LGA) / Wyndham"
+  },
+  {
+    "objectID": "stories/lgas/wyndham/index.html#which-services-are-falling-behind-fastest-in-wyndham",
+    "href": "stories/lgas/wyndham/index.html#which-services-are-falling-behind-fastest-in-wyndham",
+    "title": "Wyndham stories",
+    "section": "Which services are falling behind fastest in Wyndham?",
+    "text": "Which services are falling behind fastest in Wyndham?\n\n\n\nRecreation facilities are furthest behind in Wyndham. There are only 33 mapped health facilities to serve a council of over 340,000 people.\n\n\n\nNext: is Wyndham’s growth matched by its facilities? →"
+  },
+  {
+    "objectID": "stories/lgas/wyndham/index.html#is-wyndhams-growth-matched-by-its-facilities-everywhere-or-just-in-parts",
+    "href": "stories/lgas/wyndham/index.html#is-wyndhams-growth-matched-by-its-facilities-everywhere-or-just-in-parts",
+    "title": "Wyndham stories",
+    "section": "Is Wyndham’s growth matched by its facilities — everywhere, or just in parts?",
+    "text": "Is Wyndham’s growth matched by its facilities — everywhere, or just in parts?\nIn this analysis, Wyndham’s SA2s split into three groups: established suburbs (Wyndham’s older, already-built-out areas — Hoppers Crossing and Werribee East), growth corridors (the newest greenfield fronts driving most of Wyndham’s population growth — Tarneit, Truganina, Wyndham Vale, Manor Lakes and Point Cook), and mixed areas — a small group of SA2s where substantial industrial, rural, or defence land sits alongside residential development, making them harder to compare directly to the other two. The chart below shows where each group sits on facilities versus growth.\n\n\n\n\n\n\nWhile Wyndham’s overall facility growth has kept pace with its population growth at 17.2%, that number hides a real split within the council. A 2024 snapshot shows established parts of Wyndham had 2.76 mapped facilities per 1,000 residents — new growth areas had only 1.72. And those new growth areas are home to about two-thirds of Wyndham’s population.\n\nA note on point size: it’s set to 2024 population rather than the 2021–2024 growth figure on the x-axis because it’s paired with the y-axis instead — facilities per 1,000 residents is itself calculated using 2024 population, so sizing points by that same year keeps the dot size consistent with the rate it’s plotted against.\n\n\n← Back Next: choose a council →"
+  }
+]

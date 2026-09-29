@@ -1,0 +1,3156 @@
+{
+  "councils": ["Banyule", "Bayside", "Boroondara", "Brimbank", "Cardinia", "Casey", "Darebin", "Frankston", "Glen Eira", "Greater Dandenong", "Hobsons Bay", "Hume", "Kingston", "Knox", "Macedon Ranges", "Manningham", "Maribyrnong", "Maroondah", "Melbourne", "Melton", "Merri-bek", "Mitchell", "Monash", "Moonee Valley", "Moorabool", "Mornington Peninsula", "Murrindindi", "Nillumbik", "Port Phillip", "Stonnington", "Whitehorse", "Whittlesea", "Wyndham", "Yarra", "Yarra Ranges"],
+  "years": [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+  "rows": [
+    {
+      "council": "Casey",
+      "year": 2010,
+      "population": 254471,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2010,
+      "population": 188895,
+      "growth_area": false
+    },
+    {
+      "council": "Monash",
+      "year": 2010,
+      "population": 175731,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2010,
+      "population": 171355,
+      "growth_area": false
+    },
+    {
+      "council": "Hume",
+      "year": 2010,
+      "population": 170631,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2010,
+      "population": 159803,
+      "growth_area": true
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2010,
+      "population": 157735,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2010,
+      "population": 154729,
+      "growth_area": false
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2010,
+      "population": 152709,
+      "growth_area": true
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2010,
+      "population": 151598,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2010,
+      "population": 148542,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2010,
+      "population": 147670,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2010,
+      "population": 147407,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2010,
+      "population": 141780,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2010,
+      "population": 140212,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2010,
+      "population": 136515,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2010,
+      "population": 129052,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2010,
+      "population": 122780,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2010,
+      "population": 116688,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2010,
+      "population": 111408,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2010,
+      "population": 107169,
+      "growth_area": true
+    },
+    {
+      "council": "Melbourne",
+      "year": 2010,
+      "population": 106379,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2010,
+      "population": 106263,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2010,
+      "population": 98728,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2010,
+      "population": 96375,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2010,
+      "population": 95594,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2010,
+      "population": 82640,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2010,
+      "population": 73613,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2010,
+      "population": 72033,
+      "growth_area": true
+    },
+    {
+      "council": "Yarra",
+      "year": 2010,
+      "population": 65263,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2010,
+      "population": 62838,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2010,
+      "population": 26976,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2010,
+      "population": 17006,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2010,
+      "population": 11643,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2010,
+      "population": 3626,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2011,
+      "population": 261282,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2011,
+      "population": 191496,
+      "growth_area": false
+    },
+    {
+      "council": "Monash",
+      "year": 2011,
+      "population": 177345,
+      "growth_area": false
+    },
+    {
+      "council": "Hume",
+      "year": 2011,
+      "population": 174288,
+      "growth_area": true
+    },
+    {
+      "council": "Boroondara",
+      "year": 2011,
+      "population": 172275,
+      "growth_area": false
+    },
+    {
+      "council": "Wyndham",
+      "year": 2011,
+      "population": 171340,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2011,
+      "population": 160800,
+      "growth_area": true
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2011,
+      "population": 158282,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2011,
+      "population": 154666,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2011,
+      "population": 153465,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2011,
+      "population": 149271,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2011,
+      "population": 148304,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2011,
+      "population": 148055,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2011,
+      "population": 142942,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2011,
+      "population": 142167,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2011,
+      "population": 137152,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2011,
+      "population": 130350,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2011,
+      "population": 122983,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2011,
+      "population": 116865,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2011,
+      "population": 112645,
+      "growth_area": true
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2011,
+      "population": 112192,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2011,
+      "population": 109014,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2011,
+      "population": 106880,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2011,
+      "population": 98853,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2011,
+      "population": 97276,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2011,
+      "population": 96119,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2011,
+      "population": 82754,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2011,
+      "population": 75999,
+      "growth_area": true
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2011,
+      "population": 75154,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2011,
+      "population": 65686,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2011,
+      "population": 62716,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2011,
+      "population": 27402,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2011,
+      "population": 17488,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2011,
+      "population": 12189,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2011,
+      "population": 3671,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2012,
+      "population": 269240,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2012,
+      "population": 193778,
+      "growth_area": false
+    },
+    {
+      "council": "Wyndham",
+      "year": 2012,
+      "population": 183942,
+      "growth_area": true
+    },
+    {
+      "council": "Monash",
+      "year": 2012,
+      "population": 180312,
+      "growth_area": false
+    },
+    {
+      "council": "Hume",
+      "year": 2012,
+      "population": 179173,
+      "growth_area": true
+    },
+    {
+      "council": "Boroondara",
+      "year": 2012,
+      "population": 174027,
+      "growth_area": false
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2012,
+      "population": 169993,
+      "growth_area": true
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2012,
+      "population": 160403,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2012,
+      "population": 156179,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2012,
+      "population": 155449,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2012,
+      "population": 151700,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2012,
+      "population": 150435,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2012,
+      "population": 149024,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2012,
+      "population": 145116,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2012,
+      "population": 144986,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2012,
+      "population": 139116,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2012,
+      "population": 132194,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2012,
+      "population": 123584,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2012,
+      "population": 118354,
+      "growth_area": true
+    },
+    {
+      "council": "Manningham",
+      "year": 2012,
+      "population": 117557,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2012,
+      "population": 116373,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2012,
+      "population": 113660,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2012,
+      "population": 107999,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2012,
+      "population": 101410,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2012,
+      "population": 99907,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2012,
+      "population": 96971,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2012,
+      "population": 83528,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2012,
+      "population": 80582,
+      "growth_area": true
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2012,
+      "population": 77179,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2012,
+      "population": 67716,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2012,
+      "population": 62935,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2012,
+      "population": 28060,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2012,
+      "population": 18119,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2012,
+      "population": 13090,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2012,
+      "population": 3752,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2013,
+      "population": 278023,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2013,
+      "population": 196173,
+      "growth_area": false
+    },
+    {
+      "council": "Wyndham",
+      "year": 2013,
+      "population": 194993,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2013,
+      "population": 184869,
+      "growth_area": true
+    },
+    {
+      "council": "Monash",
+      "year": 2013,
+      "population": 183255,
+      "growth_area": false
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2013,
+      "population": 179272,
+      "growth_area": true
+    },
+    {
+      "council": "Boroondara",
+      "year": 2013,
+      "population": 177024,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2013,
+      "population": 162814,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2013,
+      "population": 159479,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2013,
+      "population": 156391,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2013,
+      "population": 154001,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2013,
+      "population": 152336,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2013,
+      "population": 150069,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2013,
+      "population": 148502,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2013,
+      "population": 147272,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2013,
+      "population": 141260,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2013,
+      "population": 134351,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2013,
+      "population": 127542,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2013,
+      "population": 124314,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2013,
+      "population": 123936,
+      "growth_area": true
+    },
+    {
+      "council": "Manningham",
+      "year": 2013,
+      "population": 118466,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2013,
+      "population": 115451,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2013,
+      "population": 109354,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2013,
+      "population": 103487,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2013,
+      "population": 102169,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2013,
+      "population": 98252,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2013,
+      "population": 84759,
+      "growth_area": true
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2013,
+      "population": 84406,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2013,
+      "population": 79782,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2013,
+      "population": 69395,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2013,
+      "population": 63174,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2013,
+      "population": 28580,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2013,
+      "population": 19048,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2013,
+      "population": 14058,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2013,
+      "population": 3810,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2014,
+      "population": 287937,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2014,
+      "population": 206369,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2014,
+      "population": 198472,
+      "growth_area": false
+    },
+    {
+      "council": "Hume",
+      "year": 2014,
+      "population": 191324,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2014,
+      "population": 187899,
+      "growth_area": true
+    },
+    {
+      "council": "Monash",
+      "year": 2014,
+      "population": 186150,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2014,
+      "population": 180071,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2014,
+      "population": 165064,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2014,
+      "population": 163293,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2014,
+      "population": 157479,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2014,
+      "population": 156500,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2014,
+      "population": 154210,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2014,
+      "population": 152135,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2014,
+      "population": 151128,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2014,
+      "population": 149511,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2014,
+      "population": 143694,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2014,
+      "population": 136868,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2014,
+      "population": 136181,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2014,
+      "population": 129259,
+      "growth_area": true
+    },
+    {
+      "council": "Banyule",
+      "year": 2014,
+      "population": 125107,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2014,
+      "population": 119550,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2014,
+      "population": 117749,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2014,
+      "population": 110980,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2014,
+      "population": 105894,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2014,
+      "population": 104462,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2014,
+      "population": 99797,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2014,
+      "population": 88250,
+      "growth_area": true
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2014,
+      "population": 85560,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2014,
+      "population": 82463,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2014,
+      "population": 71733,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2014,
+      "population": 63433,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2014,
+      "population": 29161,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2014,
+      "population": 19632,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2014,
+      "population": 14859,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2014,
+      "population": 3856,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2015,
+      "population": 299528,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2015,
+      "population": 218681,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2015,
+      "population": 200864,
+      "growth_area": false
+    },
+    {
+      "council": "Hume",
+      "year": 2015,
+      "population": 198222,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2015,
+      "population": 196847,
+      "growth_area": true
+    },
+    {
+      "council": "Monash",
+      "year": 2015,
+      "population": 189174,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2015,
+      "population": 182831,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2015,
+      "population": 167430,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2015,
+      "population": 167044,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2015,
+      "population": 158831,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2015,
+      "population": 158746,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2015,
+      "population": 156244,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2015,
+      "population": 156061,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2015,
+      "population": 152549,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2015,
+      "population": 151974,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2015,
+      "population": 145924,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2015,
+      "population": 145837,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2015,
+      "population": 137790,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2015,
+      "population": 134865,
+      "growth_area": true
+    },
+    {
+      "council": "Banyule",
+      "year": 2015,
+      "population": 126088,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2015,
+      "population": 120909,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2015,
+      "population": 120216,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2015,
+      "population": 112574,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2015,
+      "population": 108028,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2015,
+      "population": 106392,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2015,
+      "population": 101268,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2015,
+      "population": 92476,
+      "growth_area": true
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2015,
+      "population": 86808,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2015,
+      "population": 84783,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2015,
+      "population": 73710,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2015,
+      "population": 63675,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2015,
+      "population": 29828,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2015,
+      "population": 20207,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2015,
+      "population": 15686,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2015,
+      "population": 3922,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2016,
+      "population": 312789,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2016,
+      "population": 232034,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2016,
+      "population": 207058,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2016,
+      "population": 207037,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2016,
+      "population": 204194,
+      "growth_area": false
+    },
+    {
+      "council": "Monash",
+      "year": 2016,
+      "population": 192625,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2016,
+      "population": 186046,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2016,
+      "population": 171448,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2016,
+      "population": 170396,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2016,
+      "population": 161528,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2016,
+      "population": 160400,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2016,
+      "population": 160222,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2016,
+      "population": 158941,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2016,
+      "population": 155157,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2016,
+      "population": 155126,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2016,
+      "population": 154411,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2016,
+      "population": 148583,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2016,
+      "population": 141420,
+      "growth_area": true
+    },
+    {
+      "council": "Frankston",
+      "year": 2016,
+      "population": 139502,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2016,
+      "population": 127447,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2016,
+      "population": 122855,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2016,
+      "population": 122689,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2016,
+      "population": 114347,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2016,
+      "population": 111003,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2016,
+      "population": 108637,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2016,
+      "population": 102912,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2016,
+      "population": 97736,
+      "growth_area": true
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2016,
+      "population": 88419,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2016,
+      "population": 86942,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2016,
+      "population": 75915,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2016,
+      "population": 64174,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2016,
+      "population": 30674,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2016,
+      "population": 20989,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2016,
+      "population": 16747,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2016,
+      "population": 3984,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2017,
+      "population": 324946,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2017,
+      "population": 246866,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2017,
+      "population": 216245,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2017,
+      "population": 214426,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2017,
+      "population": 206120,
+      "growth_area": false
+    },
+    {
+      "council": "Monash",
+      "year": 2017,
+      "population": 195666,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2017,
+      "population": 187941,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2017,
+      "population": 174302,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2017,
+      "population": 173152,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2017,
+      "population": 164974,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2017,
+      "population": 164188,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2017,
+      "population": 162924,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2017,
+      "population": 161566,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2017,
+      "population": 160140,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2017,
+      "population": 156525,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2017,
+      "population": 155891,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2017,
+      "population": 150702,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2017,
+      "population": 148711,
+      "growth_area": true
+    },
+    {
+      "council": "Frankston",
+      "year": 2017,
+      "population": 140601,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2017,
+      "population": 128660,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2017,
+      "population": 124320,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2017,
+      "population": 124230,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2017,
+      "population": 115758,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2017,
+      "population": 112134,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2017,
+      "population": 109530,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2017,
+      "population": 103665,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2017,
+      "population": 102414,
+      "growth_area": true
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2017,
+      "population": 89250,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2017,
+      "population": 88120,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2017,
+      "population": 76996,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2017,
+      "population": 64414,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2017,
+      "population": 31296,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2017,
+      "population": 21776,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2017,
+      "population": 17618,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2017,
+      "population": 4049,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2018,
+      "population": 338087,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2018,
+      "population": 262190,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2018,
+      "population": 225522,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2018,
+      "population": 220601,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2018,
+      "population": 206981,
+      "growth_area": false
+    },
+    {
+      "council": "Monash",
+      "year": 2018,
+      "population": 198010,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2018,
+      "population": 188913,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2018,
+      "population": 176817,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2018,
+      "population": 175218,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2018,
+      "population": 172375,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2018,
+      "population": 166564,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2018,
+      "population": 164895,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2018,
+      "population": 162500,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2018,
+      "population": 161685,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2018,
+      "population": 157103,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2018,
+      "population": 157019,
+      "growth_area": true
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2018,
+      "population": 156997,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2018,
+      "population": 152389,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2018,
+      "population": 141531,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2018,
+      "population": 129645,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2018,
+      "population": 125486,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2018,
+      "population": 125193,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2018,
+      "population": 116653,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2018,
+      "population": 113340,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2018,
+      "population": 110745,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2018,
+      "population": 107103,
+      "growth_area": true
+    },
+    {
+      "council": "Bayside",
+      "year": 2018,
+      "population": 104623,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2018,
+      "population": 89970,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2018,
+      "population": 88871,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2018,
+      "population": 77816,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2018,
+      "population": 64542,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2018,
+      "population": 31851,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2018,
+      "population": 22493,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2018,
+      "population": 18740,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2018,
+      "population": 4121,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2019,
+      "population": 352006,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2019,
+      "population": 278303,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2019,
+      "population": 235367,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2019,
+      "population": 226072,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2019,
+      "population": 206774,
+      "growth_area": false
+    },
+    {
+      "council": "Monash",
+      "year": 2019,
+      "population": 199762,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2019,
+      "population": 189257,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2019,
+      "population": 178401,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2019,
+      "population": 177930,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2019,
+      "population": 176648,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2019,
+      "population": 168594,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2019,
+      "population": 166296,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2019,
+      "population": 165535,
+      "growth_area": true
+    },
+    {
+      "council": "Knox",
+      "year": 2019,
+      "population": 163349,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2019,
+      "population": 163178,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2019,
+      "population": 157926,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2019,
+      "population": 157298,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2019,
+      "population": 153936,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2019,
+      "population": 141970,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2019,
+      "population": 130607,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2019,
+      "population": 126959,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2019,
+      "population": 126405,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2019,
+      "population": 117503,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2019,
+      "population": 113800,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2019,
+      "population": 112155,
+      "growth_area": true
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2019,
+      "population": 111798,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2019,
+      "population": 105128,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2019,
+      "population": 90716,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2019,
+      "population": 89460,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2019,
+      "population": 78883,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2019,
+      "population": 64464,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2019,
+      "population": 32374,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2019,
+      "population": 23360,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2019,
+      "population": 20090,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2019,
+      "population": 4153,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2020,
+      "population": 363970,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2020,
+      "population": 292388,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2020,
+      "population": 243640,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2020,
+      "population": 231040,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2020,
+      "population": 204216,
+      "growth_area": false
+    },
+    {
+      "council": "Monash",
+      "year": 2020,
+      "population": 200791,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2020,
+      "population": 187547,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2020,
+      "population": 179467,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2020,
+      "population": 179078,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2020,
+      "population": 177587,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2020,
+      "population": 173566,
+      "growth_area": true
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2020,
+      "population": 170186,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2020,
+      "population": 165648,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2020,
+      "population": 163282,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2020,
+      "population": 163196,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2020,
+      "population": 158057,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2020,
+      "population": 157056,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2020,
+      "population": 154656,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2020,
+      "population": 142191,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2020,
+      "population": 130294,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2020,
+      "population": 128062,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2020,
+      "population": 126785,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2020,
+      "population": 117825,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2020,
+      "population": 116662,
+      "growth_area": true
+    },
+    {
+      "council": "Stonnington",
+      "year": 2020,
+      "population": 112610,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2020,
+      "population": 110595,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2020,
+      "population": 105018,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2020,
+      "population": 90097,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2020,
+      "population": 89418,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2020,
+      "population": 79044,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2020,
+      "population": 64322,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2020,
+      "population": 32835,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2020,
+      "population": 24263,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2020,
+      "population": 21543,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2020,
+      "population": 4172,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2021,
+      "population": 369558,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2021,
+      "population": 301133,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2021,
+      "population": 246917,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2021,
+      "population": 231831,
+      "growth_area": true
+    },
+    {
+      "council": "Brimbank",
+      "year": 2021,
+      "population": 196634,
+      "growth_area": false
+    },
+    {
+      "council": "Monash",
+      "year": 2021,
+      "population": 192893,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2021,
+      "population": 181346,
+      "growth_area": true
+    },
+    {
+      "council": "Boroondara",
+      "year": 2021,
+      "population": 179047,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2021,
+      "population": 172540,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2021,
+      "population": 171861,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2021,
+      "population": 170440,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2021,
+      "population": 161381,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2021,
+      "population": 160520,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2021,
+      "population": 160100,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2021,
+      "population": 159554,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2021,
+      "population": 156602,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2021,
+      "population": 150638,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2021,
+      "population": 150296,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2021,
+      "population": 140824,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2021,
+      "population": 127370,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2021,
+      "population": 125894,
+      "growth_area": false
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2021,
+      "population": 122949,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2021,
+      "population": 119721,
+      "growth_area": true
+    },
+    {
+      "council": "Maroondah",
+      "year": 2021,
+      "population": 115610,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2021,
+      "population": 106190,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2021,
+      "population": 103458,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2021,
+      "population": 102328,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2021,
+      "population": 87456,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2021,
+      "population": 86385,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2021,
+      "population": 74933,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2021,
+      "population": 63450,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2021,
+      "population": 33213,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2021,
+      "population": 25057,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2021,
+      "population": 22953,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2021,
+      "population": 4237,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2022,
+      "population": 379104,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2022,
+      "population": 314096,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2022,
+      "population": 253179,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2022,
+      "population": 237143,
+      "growth_area": true
+    },
+    {
+      "council": "Monash",
+      "year": 2022,
+      "population": 195081,
+      "growth_area": false
+    },
+    {
+      "council": "Brimbank",
+      "year": 2022,
+      "population": 193395,
+      "growth_area": false
+    },
+    {
+      "council": "Melton",
+      "year": 2022,
+      "population": 193285,
+      "growth_area": true
+    },
+    {
+      "council": "Boroondara",
+      "year": 2022,
+      "population": 179145,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2022,
+      "population": 173933,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2022,
+      "population": 173385,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2022,
+      "population": 169733,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2022,
+      "population": 168472,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2022,
+      "population": 160107,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2022,
+      "population": 159590,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2022,
+      "population": 159294,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2022,
+      "population": 156643,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2022,
+      "population": 151824,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2022,
+      "population": 150605,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2022,
+      "population": 141161,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2022,
+      "population": 127427,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2022,
+      "population": 126634,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2022,
+      "population": 123343,
+      "growth_area": true
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2022,
+      "population": 123118,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2022,
+      "population": 115294,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2022,
+      "population": 106524,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2022,
+      "population": 104111,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2022,
+      "population": 102241,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2022,
+      "population": 87605,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2022,
+      "population": 87166,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2022,
+      "population": 75674,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2022,
+      "population": 63066,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2022,
+      "population": 33666,
+      "growth_area": false
+    },
+    {
+      "council": "Moorabool",
+      "year": 2022,
+      "population": 25628,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2022,
+      "population": 24680,
+      "growth_area": true
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2022,
+      "population": 4309,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2023,
+      "population": 392060,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2023,
+      "population": 328867,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2023,
+      "population": 262738,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2023,
+      "population": 245013,
+      "growth_area": true
+    },
+    {
+      "council": "Melton",
+      "year": 2023,
+      "population": 206021,
+      "growth_area": true
+    },
+    {
+      "council": "Monash",
+      "year": 2023,
+      "population": 203687,
+      "growth_area": false
+    },
+    {
+      "council": "Brimbank",
+      "year": 2023,
+      "population": 196062,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2023,
+      "population": 186307,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2023,
+      "population": 184650,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2023,
+      "population": 180281,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2023,
+      "population": 179486,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2023,
+      "population": 170245,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2023,
+      "population": 163824,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2023,
+      "population": 163736,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2023,
+      "population": 161808,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2023,
+      "population": 157846,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2023,
+      "population": 156897,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2023,
+      "population": 155713,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2023,
+      "population": 142808,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2023,
+      "population": 129614,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2023,
+      "population": 129607,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2023,
+      "population": 127090,
+      "growth_area": true
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2023,
+      "population": 126498,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2023,
+      "population": 116967,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2023,
+      "population": 111416,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2023,
+      "population": 109601,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2023,
+      "population": 104307,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2023,
+      "population": 91776,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2023,
+      "population": 88934,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2023,
+      "population": 79935,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2023,
+      "population": 63259,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2023,
+      "population": 34317,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2023,
+      "population": 26296,
+      "growth_area": true
+    },
+    {
+      "council": "Moorabool",
+      "year": 2023,
+      "population": 26050,
+      "growth_area": false
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2023,
+      "population": 4352,
+      "growth_area": false
+    },
+    {
+      "council": "Casey",
+      "year": 2024,
+      "population": 405415,
+      "growth_area": true
+    },
+    {
+      "council": "Wyndham",
+      "year": 2024,
+      "population": 341877,
+      "growth_area": true
+    },
+    {
+      "council": "Hume",
+      "year": 2024,
+      "population": 271706,
+      "growth_area": true
+    },
+    {
+      "council": "Whittlesea",
+      "year": 2024,
+      "population": 253204,
+      "growth_area": true
+    },
+    {
+      "council": "Melton",
+      "year": 2024,
+      "population": 219697,
+      "growth_area": true
+    },
+    {
+      "council": "Monash",
+      "year": 2024,
+      "population": 209268,
+      "growth_area": false
+    },
+    {
+      "council": "Brimbank",
+      "year": 2024,
+      "population": 198155,
+      "growth_area": false
+    },
+    {
+      "council": "Melbourne",
+      "year": 2024,
+      "population": 198126,
+      "growth_area": false
+    },
+    {
+      "council": "Boroondara",
+      "year": 2024,
+      "population": 188302,
+      "growth_area": false
+    },
+    {
+      "council": "Merri-bek",
+      "year": 2024,
+      "population": 185507,
+      "growth_area": false
+    },
+    {
+      "council": "Whitehorse",
+      "year": 2024,
+      "population": 184245,
+      "growth_area": false
+    },
+    {
+      "council": "Mornington Peninsula",
+      "year": 2024,
+      "population": 171450,
+      "growth_area": false
+    },
+    {
+      "council": "Greater Dandenong",
+      "year": 2024,
+      "population": 167298,
+      "growth_area": false
+    },
+    {
+      "council": "Kingston",
+      "year": 2024,
+      "population": 166521,
+      "growth_area": false
+    },
+    {
+      "council": "Knox",
+      "year": 2024,
+      "population": 163339,
+      "growth_area": false
+    },
+    {
+      "council": "Glen Eira",
+      "year": 2024,
+      "population": 161057,
+      "growth_area": false
+    },
+    {
+      "council": "Darebin",
+      "year": 2024,
+      "population": 159963,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra Ranges",
+      "year": 2024,
+      "population": 159320,
+      "growth_area": false
+    },
+    {
+      "council": "Frankston",
+      "year": 2024,
+      "population": 144615,
+      "growth_area": false
+    },
+    {
+      "council": "Banyule",
+      "year": 2024,
+      "population": 131931,
+      "growth_area": false
+    },
+    {
+      "council": "Manningham",
+      "year": 2024,
+      "population": 131823,
+      "growth_area": false
+    },
+    {
+      "council": "Cardinia",
+      "year": 2024,
+      "population": 130536,
+      "growth_area": true
+    },
+    {
+      "council": "Moonee Valley",
+      "year": 2024,
+      "population": 129731,
+      "growth_area": false
+    },
+    {
+      "council": "Maroondah",
+      "year": 2024,
+      "population": 118885,
+      "growth_area": false
+    },
+    {
+      "council": "Stonnington",
+      "year": 2024,
+      "population": 114038,
+      "growth_area": false
+    },
+    {
+      "council": "Port Phillip",
+      "year": 2024,
+      "population": 112672,
+      "growth_area": false
+    },
+    {
+      "council": "Bayside",
+      "year": 2024,
+      "population": 106118,
+      "growth_area": false
+    },
+    {
+      "council": "Maribyrnong",
+      "year": 2024,
+      "population": 94251,
+      "growth_area": false
+    },
+    {
+      "council": "Hobsons Bay",
+      "year": 2024,
+      "population": 90765,
+      "growth_area": false
+    },
+    {
+      "council": "Yarra",
+      "year": 2024,
+      "population": 82692,
+      "growth_area": false
+    },
+    {
+      "council": "Nillumbik",
+      "year": 2024,
+      "population": 63693,
+      "growth_area": false
+    },
+    {
+      "council": "Macedon Ranges",
+      "year": 2024,
+      "population": 35115,
+      "growth_area": false
+    },
+    {
+      "council": "Mitchell",
+      "year": 2024,
+      "population": 28415,
+      "growth_area": true
+    },
+    {
+      "council": "Moorabool",
+      "year": 2024,
+      "population": 26576,
+      "growth_area": false
+    },
+    {
+      "council": "Murrindindi",
+      "year": 2024,
+      "population": 4399,
+      "growth_area": false
+    }
+  ]
+}
