@@ -15,8 +15,8 @@
   const tooltip = d3.select("#growth-area-race-tooltip");
   const STEPS_PER_YEAR = 8;
   const STEP_MS = 110;
-  const establishedColour = "#4A6670";
-  const growthColour = "#B85C38";
+  const establishedColour = "#2a78d6";
+  const growthColour = "#eb6834";
 
   const dataPromise = window.SUBURBAN_FUTURES_COUNCIL_POPULATION
     ? Promise.resolve(window.SUBURBAN_FUTURES_COUNCIL_POPULATION)
@@ -98,9 +98,7 @@
       .attr("text-anchor", "end")
       .attr("font-size", 46)
       .attr("font-weight", 700)
-      .attr("fill", "#e7dfce")
-      .attr("stroke", "#4A6670")
-      .attr("stroke-width", 0.5);
+      .attr("fill", "#d9d7d0");
 
     const totalText = svg
       .append("text")

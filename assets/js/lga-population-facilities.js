@@ -5,9 +5,9 @@
   const source = container.dataset.source;
   const tooltip = d3.select("#lga-scatter-tooltip");
   const colours = {
-    "Established areas": "#00796b",
-    "Growth corridors": "#d95f02",
-    "Mixed areas": "#6a51a3"
+    "Established areas": "#2a78d6",
+    "Growth corridors": "#eb6834",
+    "Mixed areas": "#1baf7a"
   };
 
   const dataPromise = window.SUBURBAN_FUTURES_POPULATION_FACILITIES
