@@ -182,3 +182,10 @@ h3 {
 .qa-step-nav a:only-child {
   margin-left: auto;
 }
+
+.figure-source {
+  margin: 0.4rem 0 1.25rem;
+  color: var(--sf-muted);
+  font-size: 0.8rem;
+  text-align: right;
+}
